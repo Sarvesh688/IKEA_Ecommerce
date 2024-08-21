@@ -1,0 +1,18 @@
+.table tr td img {
+  width: 80px !important;
+  height: 80px !important;
+  object-fit: contain;
+}
+
+td i {
+  cursor: pointer;
+}
+
+td,
+th {
+  color: var(--primary-color);
+}
+.btn{
+  background-color: #0a1d37;
+  color: white;
+}
